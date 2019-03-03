@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+	color: blanchedalmond;
+}
+
+.container{
+	text-align: center;
+}
+
+img{
+	height: 250px;
+	width: 250px;
+	text-align: center;
+}
+
+h1, h2 {
+	font-family: 'Permanent Marker', cursive;
+}
+
+#result{
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+}
